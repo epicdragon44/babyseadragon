@@ -1,0 +1,17 @@
+{
+  "name": "@danielwei15/babyseadragon",
+  "version": "0.2.0",
+  "description": "A minimal wrapper of OpenSeaDragon for React.js ",
+  "license": "BSD-3-Clause",
+  "repository": "epicdragon44/babyseadragon",
+  "main": "index.js",
+  "keywords": [
+    "minimal",
+    "wrapper",
+    "react",
+    "openseadragon",
+  ],
+  "dependencies": {
+    "openseadragon": "^3.0.0",
+  }
+}
